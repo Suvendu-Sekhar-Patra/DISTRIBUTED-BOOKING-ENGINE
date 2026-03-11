@@ -124,8 +124,8 @@ Key features:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Suvendu-Sekhar-Patra/Airline-Ticket-Booking-System.git
-   cd Airline-Ticket-Booking-System
+   git clone https://github.com/Suvendu-Sekhar-Patra/DISTRIBUTED-BOOKING-ENGINE.git
+   cd DISTRIBUTED-BOOKING-ENGINE
    ```
 
 2. Set up `.env` for each service with required configurations
